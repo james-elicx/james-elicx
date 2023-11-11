@@ -1,27 +1,27 @@
 <h3>Hey there! 👋🏻</h3>
 
-I'm James, a self-taught software engineer from England. Passionate about all things frontend when it comes to web development, spending most of my time crafting user interfaces and innovative solutions to problems.
-
-I enjoy taking ideas and projects and turning them into a reality, some of which end up being open-source.
+I'm James, a software engineer from England. Key areas of interest include front-end web dev, developer tooling, and performance.
 
 ---
 
 <h5>Some Projects</h5>
 
-* Iron Auth - Modular Auth Library (<a href="https://github.com/james-elicx/iron-auth">github</a>)
-* Ethereum Blockchain Explorer (<a href="https://etherexplorer.io">website</a> - <a href="https://github.com/james-elicx/ethereum-blockchain-explorer">github</a>)
+* next-on-pages - Cloudflare's Next.js adapter (<a href="https://github.com/cloudflare/next-on-pages">github</a>)
+* cf-bindings-proxy - Proxy for Cloudflare bindings (<a href="https://github.com/james-elicx/cf-bindings-proxy">github</a>)
+* cloudy - File Explorer for R2 buckets (<a href="https://cloudy.pages.dev/bucket/cloudy-demo">website</a> - <a href="https://github.com/james-elicx/cloudy">github</a>)
+* Iron Auth - Modular auth library (<a href="https://github.com/james-elicx/iron-auth">github</a>)
 
 
 <h5>Technologies I Love</h5>
 
-Obsessed with TypeScript and currently trying out Golang.
+Obsessed with TypeScript and trying out Golang.
 
 ```yaml
-frontend: react, next.js, tailwind/sass, cva
+frontend: react, next.js, solid.js, tailwind, styled components, radix
 
-backend: prisma/kysely, trpc, iron auth, postgres, s3
+backend: kysely, iron auth, postgres/sqlite/mysql, r2/s3
 
-other: planetscale, cloudflare workers, vitest
+other: planetscale, cloudflare workers, nx, bun
 ```
 
 ---
