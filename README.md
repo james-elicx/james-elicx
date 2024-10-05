@@ -1,28 +1,17 @@
 <h3>Hey there! 👋🏻</h3>
 
-I'm James, a software engineer from England. Key areas of interest include front-end web dev, developer tooling, and performance.
+I'm James, a software engineer from England. My key areas of interest include front-end frameworks, performance, and developer tooling.
+
+I also have a [blog](https://eli.cx) where I occasionally write about random topics.
 
 ---
 
 <h5>Some Projects</h5>
 
-* next-on-pages - Cloudflare's Next.js adapter (<a href="https://github.com/cloudflare/next-on-pages">github</a>)
-* cf-bindings-proxy - Proxy for Cloudflare bindings (<a href="https://github.com/james-elicx/cf-bindings-proxy">github</a>)
-* cloudy - File Explorer for R2 buckets (<a href="https://cloudy.pages.dev/bucket/cloudy-demo">website</a> - <a href="https://github.com/james-elicx/cloudy">github</a>)
-* Iron Auth - Modular auth library (<a href="https://github.com/james-elicx/iron-auth">github</a>)
-
-
-<h5>Technologies I Love</h5>
-
-Obsessed with TypeScript and trying out Golang.
-
-```yaml
-frontend: react, next.js, solid.js, tailwind, styled components, radix
-
-backend: kysely, iron auth, postgres/sqlite/mysql, r2/s3
-
-other: planetscale, cloudflare workers, nx, bun
-```
+* [next-on-pages](https://github.com/cloudflare/next-on-pages) - Cloudflare's original Next.js adapter.
+* [build-output-router](https://github.com/james-elicx/build-output-router) - Router for the Build Output API (v3).
+* [cf-bindings-proxy](https://github.com/james-elicx/cf-bindings-proxy) - Experimental proxy for Cloudflare bindings.
+* [cloudy](https://github.com/james-elicx/cloudy) - File Explorer for R2 buckets.
 
 ---
 
